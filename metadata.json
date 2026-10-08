@@ -1,0 +1,6 @@
+{
+  "name": "Boas-Vindas Igreja - Gestão de Visitantes & Projeção",
+  "description": "Sistema completo para recepção de visitantes da igreja com captação em tempo real, auto-cadastro via WhatsApp, chatbot guiado, projeção no telão e filtros por culto e turno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
